@@ -1,1 +1,1 @@
-web: gunicorn manage:app
+web: python3 manage.py
