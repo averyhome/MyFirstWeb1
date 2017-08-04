@@ -1,1 +1,1 @@
-web: gunicorn MyFirstWeb:app
+web: gunicorn MyFirstWeb.py runserver 0.0.0.5000
