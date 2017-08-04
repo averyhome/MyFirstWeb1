@@ -1,1 +1,1 @@
-web: gunicorn spreading.wsgi --log-file -
+web: gunicorn gettingstarted.wsgi --log-file -
