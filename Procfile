@@ -1,1 +1,1 @@
-web: gunicorn MyFirstWeb.py:app
+web: gunicorn manage:app
