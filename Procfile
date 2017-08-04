@@ -1,1 +1,1 @@
-Web：python3 manage.py
+web: gunicorn gettingstarted.wsgi --log-file -
