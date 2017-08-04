@@ -1,1 +1,1 @@
-web: gunicorn MyFirstWeb.py runserver 0.0.0.5000
+web: gunicorn MyFirstWeb.py --log-file -
